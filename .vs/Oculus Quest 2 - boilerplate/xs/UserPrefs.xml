@@ -1,20 +1,48 @@
 ﻿<Properties StartupConfiguration="{DB492E1D-6C24-5063-5294-2C8345D06E03}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandler.cs">
-    <Files>
-      <File FileName="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandler360.cs" Line="26" Column="74" />
-      <File FileName="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportOrientationHandler.cs" Line="21" Column="39" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Oculus Quest 2 - boilerplate" expanded="True" selected="True" />
+          <Node name="Oculus Quest 2 - boilerplate" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Oculus" expanded="True">
+                <Node name="SampleFramework" expanded="True">
+                  <Node name="Core" expanded="True">
+                    <Node name="Locomotion" expanded="True">
+                      <Node name="Scripts" expanded="True">
+                        <Node name="TeleportOrientationHandler360.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="Voice" expanded="True">
+                  <Node name="Lib" expanded="True">
+                    <Node name="Wit.ai" expanded="True">
+                      <Node name="Lib" expanded="True">
+                        <Node name="Conduit" expanded="True">
+                          <Node name="Runtime" expanded="True">
+                            <Node name="Data" expanded="True" />
+                          </Node>
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="VR" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Util" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="983f0df8-f9a4-4ff4-9672-58ebea2a8c1f" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bee4c0af-1803-4377-9202-cc283f585a43" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
