@@ -29,11 +29,8 @@ ScriptsOnlyBuild:
     - Oculus.Interaction.ControllerPointerPose
     - Oculus.Interaction.ControllerSelector
     - Oculus.Interaction.GrabAPI.HandGrabAPI
-    - Oculus.Interaction.GrabInteractable
     - Oculus.Interaction.GrabInteractor
-    - Oculus.Interaction.Grabbable
     - Oculus.Interaction.HandActiveState
-    - Oculus.Interaction.HandGrab.HandGrabInteractable
     - Oculus.Interaction.HandGrab.HandGrabInteractor
     - Oculus.Interaction.HandGrab.HandGrabStateVisual
     - Oculus.Interaction.HandJoint
@@ -53,8 +50,6 @@ ScriptsOnlyBuild:
     - Oculus.Interaction.InteractorDebugVisual
     - Oculus.Interaction.InteractorGroup
     - Oculus.Interaction.MaterialPropertyBlockEditor
-    - Oculus.Interaction.OneGrabFreeTransformer
-    - Oculus.Interaction.PhysicsGrabbable
     - Oculus.Interaction.PokeInteractor
     - Oculus.Interaction.PoseDetection.FingerFeatureStateProvider
     - Oculus.Interaction.PoseDetection.FingerFeatureStateThresholds
@@ -90,8 +85,6 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
   serializedClasses:
     Oculus.Interaction:
-    - Oculus.Interaction.Grab.PoseMeasureParameters
-    - Oculus.Interaction.GrabAPI.GrabbingRule
     - Oculus.Interaction.Input.OneEuroFilterPropertyBlock
     - Oculus.Interaction.MaterialPropertyVector
     - Oculus.Interaction.PoseDetection.FingerFeatureStateProvider/FingerStateThresholds
@@ -102,7 +95,7 @@ ScriptsOnlyBuild:
     - Assets.Oculus.VR.Editor.AssetConfigList
   methodsToPreserve: []
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Low_Poly_Mini_Village/Demo_scene/Demo.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -170,8 +163,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3332}
     - Class: 114
-      Script: {instanceID: 3450}
-    - Class: 114
       Script: {instanceID: 3640}
     - Class: 114
       Script: {instanceID: 3696}
@@ -192,8 +183,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4970}
     - Class: 114
-      Script: {instanceID: 5010}
-    - Class: 114
       Script: {instanceID: 5048}
     - Class: 114
       Script: {instanceID: 5060}
@@ -208,8 +197,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6284}
     - Class: 114
-      Script: {instanceID: 6442}
-    - Class: 114
       Script: {instanceID: 6570}
     - Class: 114
       Script: {instanceID: 6600}
@@ -217,8 +204,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 6614}
     - Class: 114
       Script: {instanceID: 6640}
-    - Class: 114
-      Script: {instanceID: 6778}
     - Class: 114
       Script: {instanceID: 6828}
     - Class: 114
@@ -274,8 +259,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10232}
     - Class: 114
-      Script: {instanceID: 10432}
-    - Class: 114
       Script: {instanceID: 10572}
     - Class: 114
       Script: {instanceID: 10660}
@@ -298,6 +281,10 @@ ScriptsOnlyBuild:
     - Class: 196
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    - Class: 850595691
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -4172,5 +4159,5 @@ ScriptsOnlyBuild:
     className: HandGrabPoint
   platform: 13
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/matteo.petrani/unity/Oculus Quest 2 - boilerplate/HandControllerTracking.apk
+  - Assets/Low_Poly_Mini_Village/Demo_scene/Demo.unity
+  playerPath: /Users/matteo.petrani/unity/Oculus Quest 2 - boilerplate/LowPolyVillage.apk

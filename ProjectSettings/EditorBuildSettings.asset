@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+  - enabled: 0
+    path: Assets/Oculus custom starters/DefaultScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Oculus custom starters/DemoLowPolyVillage.unity
+    guid: 9281df55f3f96d3469f1b6ed4b26e93d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3b876617b14e54f409c7334d942a83dc, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: db7a2766b7b334b6e959824b20a5bec6, type: 2}
