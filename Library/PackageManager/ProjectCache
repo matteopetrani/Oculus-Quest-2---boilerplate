@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638109469780000000
-    m_Hash: 365403154
+      ticks: 638115482090000000
+    m_Hash: 1938261451
   m_LockFileStatus:
     m_FilePath: /Users/matteo.petrani/unity/Oculus Quest 2 - boilerplate/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638109469790000000
-    m_Hash: 1880188561
+      ticks: 638115482090000000
+    m_Hash: 2506241950
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -217,7 +217,7 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.ide.visualstudio
-    version: 2.0.15
+    version: 2.0.17
   - name: com.unity.test-framework
     version: 1.1.31
   - name: com.unity.ext.nunit
@@ -259,12 +259,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.1
     nextVersion: 
-- packageId: com.unity.ide.visualstudio@2.0.15
+- packageId: com.unity.ide.visualstudio@2.0.17
   testable: 0
   isDirectDependency: 1
-  version: 2.0.15
+  version: 2.0.17
   source: 1
-  resolvedPath: /Users/matteo.petrani/unity/Oculus Quest 2 - boilerplate/Library/PackageCache/com.unity.ide.visualstudio@2.0.15
+  resolvedPath: /Users/matteo.petrani/unity/Oculus Quest 2 - boilerplate/Library/PackageCache/com.unity.ide.visualstudio@2.0.17
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -328,13 +328,13 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637841884840000000
-  documentationUrl: 
+  datePublishedTicks: 638059987360000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: ca1ece42f5a2c5484ba15a15bb975ccc1f6a1a3c
+    revision: 1f126893bfb18ea9661fb15771613e841467073c
     path: 
   unityLifecycle:
     version: 2.0.15
@@ -3568,6 +3568,7 @@ m_ResolvedPackages:
     - 1.5.2
     - 1.6.0
     - 1.7.0
+    - 1.7.1
     compatible:
     - 1.4.0
     - 1.4.1
@@ -3576,6 +3577,7 @@ m_ResolvedPackages:
     - 1.5.2
     - 1.6.0
     - 1.7.0
+    - 1.7.1
     verified: 1.4.3
   dependencies:
   - name: com.unity.modules.unitywebrequest
